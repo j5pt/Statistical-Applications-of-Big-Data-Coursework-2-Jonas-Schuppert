@@ -13,4 +13,4 @@ The weather data was collected from a free but limited API, which provides histo
 The documentation of this API can be found here: https://www.worldweatheronline.com/weather-api/api/docs/historical-weather-api.aspx.
 The API key from my account is provided in the 'Data Processing' notebook under the 'Weather API' section, in case the notebook needs to be rerun, however, the API key does not allow unlimited get requests.
 
-'EV_Weather.csv' is the final dataset file with which the 'Feature Engineering' notebook can be executed and all models are trained.
+'EV_Weather.csv' is the final dataset file which allows the 'Feature Engineering' notebook to be executed and on which all models were trained.
