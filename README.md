@@ -3,6 +3,9 @@ This repository shares all relevant code and data used for Coursework 2 of Stati
 The notebooks were execuded in Google Colab, it is not clear if they can be successfully execuded in other IDEs.
 The notebooks are meant to be rerun, i.e., if the right datasets (described below) are available the notebooks should be executable for everyone.
 
+The file 'Data_Processing_Big_Data_Coursework_2_Jonas_Schuppert.ipynb' provides all data cleaning, processing etc. information.
+The file 'Feature_Engineering_Big_Data_Coursework_2_Jonas_Schuppert.ipynb' provides feautre scaling and selection, as well as training the models, tuning the hyperparameters and model evaluation.
+
 The Electric Vehicle (EV) data was collected from data.gov.uk: https://www.data.gov.uk/dataset/16c7326b-57fe-4803-88f8-9286c387f68a/electric-vehicle-charging-transactions
 where the following datasets were downloaded: 'CityEV 2021_Q3 data.csv', 'CityEV 2021_Q4 data.csv', 'CityEV 2022_Q1 data.csv', 'CityEV 2021 Q2 data.csv', 'CityEV Charging Point Data' and 'Charge Transactions'.
 
