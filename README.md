@@ -1,6 +1,6 @@
 # Statistical-Applications-of-Big-Data-Coursework-2-Jonas-Schuppert
 This repository shares all relevant code and data used for Coursework 2 of Statistical Applications of Big Data (COS7049-B).
-The notebooks were execuded in Google Colab, it is not clear if they can be successfully execuded in other IDEs.
+The notebooks were execuded in Google Colab, it is not clear if they can be successfully executed in other IDEs.
 The notebooks are meant to be rerun, i.e., if the right datasets (described below) are available the notebooks should be executable for everyone.
 
 The file 'Data_Processing_Big_Data_Coursework_2_Jonas_Schuppert.ipynb' provides all data cleaning, processing etc. information.
